@@ -1,5 +1,16 @@
 # Open Community Matrix Issues
 
+## Why are we documenting issues?
+
+The aim of this repository is to track issues that are important to
+open communities using Matrix. And from there organise the effort to
+fix them.
+
+## What is an open community?
+
+A community that participates in the open Matrix federation with no
+secure border gateways.
+
 ## Triaging
 
 Triaging is done by assigning 4 labels.
@@ -12,6 +23,24 @@ Triaging is done by assigning 4 labels.
 
 - The priority of the issue in regards to how it makes the actor feel
   about Matrix.
+
+Each of these labels has a weight which is used to calculate a pain
+score as a percentage late.
+
+`Pain = Likelihood * Impact * Priority / Max Likelihood * Max Impact * Max Priority`
+
+With this percentage, we can visibility into which issues are the most
+painful for Matrix users by sorting issues descending by the pain
+score.
+
+This triage process is derived primarily from Avery Pennarun's [epic
+treatise on scheduling, bug tracking, and
+triage](https://apenwarr.ca/log/20171213). But has been modified
+significantly, see [Draupnir's
+documentation](https://the-draupnir-project.github.io/draupnir-documentation/contributing/triaging)
+and [Gnuxie's blog post on
+triage](https://marewolf.me/posts/draupnir/2401.html#triaging) for the
+details.
 
 ### Actor
 
