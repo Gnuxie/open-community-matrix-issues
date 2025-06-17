@@ -8,12 +8,13 @@ fix them.
 
 ## What is an open community?
 
-A community that participates in the open Matrix federation with no
-secure border gateways.
+A community that participates through Matrix rooms in the open Matrix
+federation with no secure border gateways.
 
 ## Triaging
 
-Triaging is done by assigning 4 labels.
+Triaging is done by assigning 4 labels and adding issues to a
+[project](https://github.com/users/Gnuxie/projects/1).
 
 - An actor label to determine _who_ the issue is related to or their role.
 
