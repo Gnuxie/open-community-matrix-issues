@@ -2,7 +2,8 @@
 
 ## Triaging
 
-Category: Contributor or User issue.
+Category: Contributor, Space moderator, Homeserver administrator,
+Community member.
 
 ### Likelihood
 
@@ -47,8 +48,8 @@ unfamiliar users.
 
 ### Priority
 
-### 3. Will a user consider leaving the platform because of this issue?
+#### 3. Will a user consider leaving the platform because of this issue?
 
-### 2. Will this issue prevent the user from recommending Matrix?
+#### 2. Will this issue prevent the user from recommending Matrix?
 
-### 1. The issue is a nuisance but I can still happily recommend Matrix.
+#### 1. The issue is a nuisance but I can still happily recommend Matrix.
